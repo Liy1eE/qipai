@@ -1,7 +1,5 @@
 package.path = "../../lualib/?.lua;"..package.path
 
-local utils = require "utils"
-
 local jiang = {
     [2] = true,
     [5] = true,
